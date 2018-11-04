@@ -1,0 +1,26 @@
+assistant : 조수, 보조원 (ex: show the assistant editor)
+IB outlet collection
+show the standard editor
+rather : 꽤, 아주
+guaranteed : 보장, 보증서
+order : 순서
+roughly : 거칠게
+established : 확립된
+numerous : 매우 많은
+Nonetheless : 그럼에도 불구하고
+rely : 믿다, 의지하다
+discouraged : 낙담한
+significant : 중요한
+
+show the attributes inspector
+
+리스폰더 체인 (responder chain)
+
+터치, 멀티터치, 탭, 스와이프, 핀치
+
+퍼스트 리스펀더(first responder) : 이벤트가 발생했을 때 사용자가 접촉한 객체를 의미한다.
+
+터치(최대5개), 제스쳐(스와이프, 핀치, 늘리기, 튀기기 등), 탭(스크린을 건드렸다가 즉시 뗄 때 발생), 
+
+
+Vodka 2973
